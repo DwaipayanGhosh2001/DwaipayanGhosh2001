@@ -15,7 +15,7 @@
     <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/DwaipayanGhosh2001?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/DwaipayanGhosh2001?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
