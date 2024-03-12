@@ -12,14 +12,14 @@
 
 <p align=center>
   <a href="https://github.com/DwaipayanGhosh2001">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/DwaipayanGhosh2001/DwaipayanGhosh2001?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/DwaipayanGhosh2001?tab=repositories">
     <img src="https://badges.pufler.dev/repos/DwaipayanGhosh2001?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/DwaipayanGhosh2001"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+<a href="https://github.com/DwaipayanGhosh2001"><img src="https://img.shields.io/github/followers/DwaipayanGhosh2001?style=social"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Artificial Inteligence-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Data Structures-red"> <img src="https://img.shields.io/badge/Algorithm-magenta"> <img src="https://img.shields.io/badge/Web Application-yellow"> <img src="https://img.shields.io/badge/App Developement-blue"> 
@@ -30,7 +30,7 @@
 </p>
 
 <!-- <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=DwaipayanGhosh2001&show_icons=true&theme=radical">
 </p> -->
 
 
